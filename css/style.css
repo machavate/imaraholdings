@@ -7,13 +7,6 @@
     --dark: #071A3D;
 }
 
-.back-to-top {
-    position: fixed;
-    display: none;
-    right: 30px;
-    bottom: 30px;
-    z-index: 99;
-}
 
 h1,
 h2,
