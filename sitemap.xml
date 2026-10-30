@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>https://www.imaraholdngs.com/</loc>
+        <lastmod>2026-10-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.imaraholdngs.com/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.imaraholdngs.com/pt/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.imaraholdngs.com/"/>
+        <image:image>
+            <image:loc>https://www.imaraholdngs.com/img/og-image.jpg</image:loc>
+            <image:title>Imara Holdings</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.imaraholdngs.com/pt/</loc>
+        <lastmod>2026-10-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.imaraholdngs.com/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.imaraholdngs.com/pt/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.imaraholdngs.com/"/>
+    </url>
+</urlset>
